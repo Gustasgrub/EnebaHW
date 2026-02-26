@@ -14,11 +14,12 @@ Open your first terminal window, navigate to the backend folder, and run:
 
     cd backend
     npm install
-### 1. Open a second, new terminal window, navigate to the frontend folder, and run:
+### 2. Open a second, new terminal window, navigate to the frontend folder, and run:
 
     cd frontend-app
     npm install
     npm start
+The React application will automatically open in your default browser at http://localhost:3000.
 ### Features Implemented
 
 Frontend: Built with React. Matches the provided design screenshot precisely, including dynamic platform colors, cashback badges, hover states, and original layout formatting.
